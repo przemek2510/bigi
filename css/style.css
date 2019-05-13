@@ -83,8 +83,8 @@ section .image {
 }
 iframe {
     display: block;
-    width: 920px; 
-    height: 520px; 
+    width: 800px; 
+    height: 400px; 
     margin: 0 auto; 
     border: 0;
 }
