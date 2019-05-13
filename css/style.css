@@ -77,9 +77,16 @@ body:before {
 section .image {
   width: 720px;
   min-height: 560px;
-  margin: 0px;
+  margin: 0 auto;
   background-position: center center;
   background-size: cover;
+}
+iframe {
+    display: block;
+    width: 920px; 
+    height: 520px; 
+    margin: 0 auto; 
+    border: 0;
 }
 section .image.image1 {
   background-image: url("https://i.imgur.com/AGgPer3.jpg");
